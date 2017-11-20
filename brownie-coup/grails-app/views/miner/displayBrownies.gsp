@@ -6,6 +6,9 @@
   <div id="header">
   </div>
 
+  <div class=""="topnav">
+  </div>
+
   <div id="sides">
     <p>This will have all of the left side</p>
   </div>

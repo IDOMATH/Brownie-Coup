@@ -6,9 +6,17 @@
     <r:layoutResources />
   </head>
   <body>
+
     <div id="header">
       <g:img dir="images" files="logo.png" alt="Brownie Coup" />
     </div>
+
+    <div class="topnav">
+      <a href="#">Home</a>
+      <a href="#">FAQ</a>
+      <a href="#">Donate</a>
+    </div>
+
     <g:layoutBody />
   </body>
 </html>
