@@ -6,7 +6,6 @@
     <r:layoutResources />
   </head>
   <body>
-
     <div id="header">
       <g:img dir="images" files="logo.png" alt="Brownie Coup" />
     </div>

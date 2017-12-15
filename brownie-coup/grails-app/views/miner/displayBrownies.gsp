@@ -6,7 +6,7 @@
   <div id="header">
   </div>
 
-  <div class=""="topnav">
+  <div class="topnav">
   </div>
 
   <div id="sides">
